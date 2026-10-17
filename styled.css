@@ -32,8 +32,8 @@ header{
     position: absolute;
     z-index: -2;
     top: 75px;
-    right: 7%;
-    width: 38%;
+    right: 12%;
+    width: 340px;
     height: 240px;
     background: rgba(255, 252, 245, 0.18);
     border: 1px solid rgba(200, 185, 166, 0.35);
