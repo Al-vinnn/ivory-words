@@ -165,3 +165,55 @@ header{
     border-bottom: 1px solid #827568;
     padding-bottom: 7px;
 }
+#reading-room, #about{
+    padding: 60px 8%;
+    border-top: 1px solid #c8b9a6;
+}
+#reading-room h2, #about h2{
+    font-size: 38px;
+    font-weight: normal;
+    letter-spacing: -1.5px;
+    margin: 0 0 30px;
+}
+#poem-text{
+    white-space: pre-line;
+    max-width: 560px;
+    padding: 40px;
+    line-height: 1.9;
+    background: rgba(255, 252, 245, 0.45);
+    border: 1px solid rgba(200, 185, 166, 0.5);
+    box-shadow: 12px 16px 20px rgba(57, 51, 47, 0.075);
+}
+#about{
+    text-align: center;
+}
+#about p{
+    max-width: 480px;
+    margin: 0 auto;
+    font-style: italic;
+    font-size: 18px;
+    color: #827568;
+}
+#about a{
+    display: inline-block;
+    margin-top: 36px;
+    color: #39332f;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-bottom: 1px solid #827568;
+    padding-bottom: 7px;
+}
+footer{
+    text-align: center;
+    padding: 40px 20px;
+    border-top: 1px solid #c8b9a6;
+    font-size: 11px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #827568;
+}
+#poem-list article{
+    cursor: pointer;
+}
