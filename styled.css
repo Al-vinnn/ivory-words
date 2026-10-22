@@ -22,8 +22,11 @@ header{
     margin: 8px 0 0;
 }
 #cover{
+    max-width: 700px;
+    margin: 0 auto;
     text-align: left;
-    padding: 100px 12% 110px;
+    padding: 100px 40px 110px;
+    box-sizing: border-box;
     position: relative;
     isolation: isolate;
 }
@@ -40,7 +43,8 @@ header{
     box-shadow: 10px 12px 25px rgba(57, 51, 47, 0.035);
 }
 #cover h1{
-    font-size: clamp(42px, 6vw, 76px);
+    font-size: clamp(42px, 6vw, 56px);
+    width: fit-content;
     font-weight: normal;
     letter-spacing: -3px;
     line-height: 1;
@@ -53,9 +57,9 @@ header{
     content: "";
     position: absolute;
     z-index: -1;
-    top: -28px;
-    left: 35px;
-    width: 72%;
+    top: -0.65em;
+    left: 0.85em;
+    width: 115%;
     height: 135%;
     background: rgba(255, 252, 245, 0.45);
     border: 1px solid rgba(200, 185, 166, 0.5);
@@ -65,9 +69,9 @@ header{
     content: "";
     position: absolute;
     z-index: -2;
-    top: -36px;
-    left: 43px;
-    width: 72%;
+    top: -0.85em;
+    left: 1em;
+    width: 115%;
     height: 135%;
     border: 1px solid rgba(174, 153, 128, 0.3);
     pointer-events: none;
