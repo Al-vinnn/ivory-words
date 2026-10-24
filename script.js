@@ -390,6 +390,9 @@ const fade = [
 cards.forEach(function (card){
     card.addEventListener("click", function(){
         const poem = poems[card.dataset.poem];
+        if (window.goatcounter) {
+            window.goatcounter.count({path: "poem-" + card.dataset.poem, title: poem.title, event: true});
+        }
         poemTitle.textContent = poem.title;
         poemText.textContent = poem.text;
         poemTitle.animate(fade, {duration: 700, easing: "ease"});
