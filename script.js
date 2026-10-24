@@ -17,6 +17,38 @@ I want to hold you close always, even if we’re freezing in ice,
 I wish you could say sorry, but maybe I’m the one to apologize;
 `
     },
+    anhedonia: {
+        title: "Anhedonia",
+        text: `The silence, it engulfs me, swallowed whole,
+No room to move, no breeze to wake me up, 
+But nothing to hold, nothing to call back, 
+No one to call me back, the void has no feeling,
+Just filled to the brim with nothingness, it chokes me,
+I feel the hand in my throat trying to escape, but it still goes down,
+The empty flawed feeling in me that I could recognize,
+Now filled, no stuffed, like a toy, filled to the brim, but with nowhere to escape from,
+I miss the lonely feeling, that had taken the place of my reflection,
+Now I know nothing, a fatigue, but still with energy, acedia, but with difference,
+The music and sound cover the words, my vision is blurred but tears dried out,
+Unable to call it nothing, unable to call it everything, the bags under my eyes,
+They now feel louder, the wings on my back, of the lonely bird,
+Now burnt up, by this chasm that allows not comprehension nor rejection.
+
+I put the pen down, I feel it all, the words to give, but no meaning held within them now,
+Obsolete, it’s useless, I have no reason to fight it, but I want to curl my fist,
+Like all the times before, it’s all washed up, the eros, the joy, the sadness, the indifference,
+The only thing not gone is the music, like altered in the high, it pierces my mind,
+No meaning, just waves, a thought wishing it could take me,
+I want it to pull me out instead, but unable to think about it,
+Thoughts broken up, cluttered, meaningless rhythms, oh what a dastardly feeling,
+The feeling of nothing as everything, the feeling of fullness with hollowness,
+Do I climb out again, like before, but I have no reason,
+Do I stand here - but for what reason,
+But do I really need a reason, to be, to leave, to live,
+Despondency, a longing, the feeling I get in the music, when will it occur in me,
+Oh, what a dastardly feeling.
+`
+    },
     acedia: {
         title: "Acedia",
         text: `A paradise relived in my head, as the days passed,
