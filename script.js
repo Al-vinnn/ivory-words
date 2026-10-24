@@ -328,7 +328,7 @@ My life turned to one just bleeding red,
 But I can’t move, I’m stuck here crying in the same bed;
 
 A song I sing each day, one in which to live I long,
-To the lyrics in my pâté, I try to sing along,
+To the lyrics in ma tête, I try to sing along,
 A song which resonates, that crying makes you strong,
 One that tries to convince me to understand that you’re gone;
 
