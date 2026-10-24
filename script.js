@@ -62,8 +62,8 @@ You said “Together forever”, that you and I would be like a chain,
 But in the end, we snapped, all for reasons I could never ascertain;
 
 Written in my own records, my all-time birthday wish,
-I wish you were still here, maybe that would bring me a stitch,
-To save my own sanity, to save myself from being trapped in this glitch,
+I wish you were still here, I say each time i see the first star,
+To save my own sanity, to save myself from being trapped in an unending glitch,
 Then maybe, just maybe, I wouldn’t still be struggling to escape this ditch;
 
 Time’s still going, I’m still trying to forget you,
@@ -123,7 +123,7 @@ Everything we built, and the little we still have.
         text: `It’s been more than twenty months, since it all began,
 Even after all this time, I never came to understand,
 Why you did that, why what we had you had to disband,
-I still wish you were here, I wish io could still hold your hand;
+I still wish you were here, I wish I could still hold your hand;
 
 In my happiest days, and weirdest moments,
 You were always there, always made me feel fine,
@@ -173,13 +173,13 @@ A life of black and white, but now illuminated by blue;
 
 Blue, a color of sadness, what the world wants to see,
 But a glimmer of hope, now shining down on ma vie,
-Elle est belle, elle est parfait, elle est mon amour,
+Elle est belle, elle est parfaite, elle est mon amour,
 The hand that now holds me, from falling through despair’s door;
 
-I wish I could show her, ma vue de la monde,
+I wish I could show her, ma vue du monde,
 Though shy as she was, her world is more fond,
 Of gracefulness and beauty, l’elegance and dexterity,
-A world dwarfing mine, a world that just oh so pretty;
+A world dwarfing mine, a world that's all I want mine to be;
 
 A flower she truly is, one not meant to hold,
 But as long as this heart still beats, let it behold,
@@ -332,7 +332,7 @@ To the lyrics in my pâté, I try to sing along,
 A song which resonates, that crying makes you strong,
 One that tries to convince me to understand that you’re gone;
 
-Why me, why now, why here, why ever,
+Why me, why us, why now, why here, why ever,
 I’m tired of saying that I wish I never,
 I’m sick of hearing that same regret in my head,
 ‘I wish we never happened’, a qualm I wish to lay to rest;
