@@ -82,6 +82,32 @@ Finally giving the boy, the strength to move, standing between the abyss and lif
 He takes a step, eyes closed, letting his own tragic, ill fate lead him to fall or lead him to drown.
 `
     },
+    swansong: {
+        title: "His Own Swan Song",
+        text: `Look at me, once more, not anywhere else but at me,
+A quiet ache that refuses to really fade,
+I gaze at you, something I wish you would reciprocate,
+Your face, your eyes, all you are, maybe adoration,
+Maybe attention, maybe a whole other reason.
+What am I feeling right now, a pull so strong,
+I move to you, but our places allow me not,
+Not after all I learnt, all I experienced, but I want to move to you,
+Have a place in front of you, so,
+Please just look at this lorn bird, with nothing but flimsy motivations,
+Notice the dance she springs for you, withholding her own tears,
+Their own fears, the doubts they could never be the watcher,
+Destined to live in the constant rain, under the guise of freedom,
+Just to live wanting to be gazed at, even with lost eyes,
+Wanting the choice of gazing back, back at what he adores,
+But a push also as strong, a feeling of envy, a benign envy?
+Moving forward bleeding, for reasons only beknown to the one on the stage,
+All just for Him to stare at you like that once more,
+A word of praise, a word to lift the sludge of its wings,
+Even if just feeding an addiction, but what is he without it.
+A final plea as the wings turn to dust, just like before, one wish,
+Hear this sorrowful dirge, his swan song, her own curtain call.
+`
+    },
     mybirthdaywish: {
         title: "My Birthday Wish",
         text: `A promise made, nearly two years past,
